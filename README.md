@@ -24,7 +24,7 @@ Compete in trivia challenges against other users among a wide variety of categor
 * Ruby on Rails v5.1.5
 * PostgreSQL 10
 
-## Database Relationships
+## Domain Model
 
 ![TRIVIA-relationships](https://github.com/matjack9/TRIVIA/blob/master/TRIVIA-relationships.png)
 
