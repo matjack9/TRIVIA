@@ -8,7 +8,8 @@ Compete in trivia challenges against other users among a wide variety of categor
 
 ## Demo
 
-[![TRIVIA Demo (not yet)](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+https://youtu.be/_JrSapbIcmo
+[![TRIVIA Demo](http://img.youtube.com/vi/_JrSapbIcmo/0.jpg)](https://youtu.be/_JrSapbIcmo)
 
 ## How To Use
 
@@ -50,4 +51,4 @@ Compete in trivia challenges against other users among a wide variety of categor
 * [Anna Yang](https://github.com/yanganna68)
 * [Matt Jackson](https://github.com/matjack9)
 
-© [Matt Jackson](https://www.linkedin.com/in/matjack/)
+MIT © [Anna Yang](https://github.com/yanganna68) & [Matt Jackson](https://www.linkedin.com/in/matjack/)
