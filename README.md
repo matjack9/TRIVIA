@@ -8,7 +8,6 @@ Compete in trivia challenges against other users among a wide variety of categor
 
 ## Demo
 
-https://youtu.be/_JrSapbIcmo
 [![TRIVIA Demo](http://img.youtube.com/vi/_JrSapbIcmo/0.jpg)](https://youtu.be/_JrSapbIcmo)
 
 ## How To Use
